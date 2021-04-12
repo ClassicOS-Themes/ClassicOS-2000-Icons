@@ -4,6 +4,8 @@ Scalable Linux Desktop Icon Theme modeled after Windows 2000.
 
 ## Installation
 
+Requires bash for build & installation
+
 ```bash
 git clone https://github.com/ClassicOS-Themes/ClassicOS-2000-Icons.git
 cd ClassicOS-2000-Icons
@@ -35,4 +37,11 @@ The idea behind this icon theme is to redraw the icons in SVG format in such a w
 
 As such, while these icons are "scalable", the main focus is to get them looking good at their original size. They won't always look the greatest at 200, 300, 400%, but at least the lines will be sharp and diagonals not pixellated.
 
+## Misc Notes
 
+Falls back to [b00merang's Windows XP icon theme](https://github.com/B00merang-Artwork/Windows-XP/) for missing icons, then tango and the usual icon sets.
+
+I've purposefully avoided adding [the Chicago95 icon set](https://github.com/grassmunk/Chicago95) to the list of inherited themes so that it's easier to see what still needs to be done. If you want the system to look as retro as possible, add Chicago95 to the list of inherited themes in `src/index.theme` before building and installing, like so:
+```
+Inherits=Chicago95,Windows-XP,tango,adwaita,gnome,hicolor
+```
