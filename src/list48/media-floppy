@@ -1,0 +1,9 @@
+devices/media-floppy
+devices/gtk-floppy
+devices/system-floppy
+devices/gnome-dev-floppy
+devices/floppy_unmount
+devices/media-jaz
+devices/gnome-dev-jazdisk
+devices/media-zip
+devices/gnome-dev-zipdisk

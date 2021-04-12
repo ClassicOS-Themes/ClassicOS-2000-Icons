@@ -1,0 +1,12 @@
+devices/network_fs
+devices/nfs
+devices/samba
+places/folder-remote
+places/folder-remote-nfs
+places/folder-remote-smb
+places/folder-remote-ssh
+places/gnome-fs-blockdev
+places/gnome-fs-nfs
+places/gnome-fs-share
+places/gnome-fs-smb
+places/gnome-fs-ssh

@@ -1,0 +1,15 @@
+apps/magnifier
+apps/catfish
+apps/spacefm-find
+apps/gnome-searchtool
+apps/panel-searchtool
+actions/edit-find
+actions/filefind
+actions/find
+actions/gnome-searchtool
+actions/gtk-find
+actions/gtk-search
+actions/panel-searchtool
+actions/search
+actions/stock_search
+actions/system-search

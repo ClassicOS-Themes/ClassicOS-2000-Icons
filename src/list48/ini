@@ -1,0 +1,16 @@
+mimes/ini
+mimes/inf
+mimes/cfg
+mimes/conf
+mimes/application-x-desktop
+mimes/application-x-theme
+mimes/text-x-makefile
+mimes/text-x-cmake
+mimes/text-x-theme
+mimes/text-x-gtkrc
+mimes/gnome-mime-application-x-desktop
+mimes/gnome-mime-text-x-makefile
+mimes/gnome-mime-text-x-cmake
+mimes/gnome-mime-text-x-theme
+mimes/gnome-mime-text-x-gtkrc
+mimes/gnome-mime-application-x-theme

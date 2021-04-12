@@ -1,0 +1,9 @@
+apps/update-notifier
+apps/x-system-software-sources
+apps/system-software-update
+apps/update-manager
+apps/pup
+apps/edit-urpm-sources
+apps/gtk-repo
+apps/pk-package-sources
+apps/software-properties

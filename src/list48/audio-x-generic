@@ -1,0 +1,14 @@
+mimes/audio-x-generic
+mimes/application-ogg
+mimes/audio-adpcm
+mimes/audio-mpeg
+mimes/audio-x-flac+ogg
+mimes/audio-x-mpeg
+mimes/audio-x-ms-wma
+mimes/audio-x-speex+ogg
+mimes/audio-x-vorbis+ogg
+mimes/audio-x-wav
+mimes/gnome-mime-application-ogg
+mimes/gnome-mime-audio
+mimes/medio-audio
+mimes/sound

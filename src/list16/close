@@ -1,0 +1,14 @@
+actions/button_cancel
+actions/cancel
+actions/dialog-cancel
+actions/dialog-close
+actions/dialog-no
+actions/gtk-close
+actions/gtk-no
+actions/stock_calc-cancel
+actions/stock_close
+actions/stock_no
+actions/window-close
+actions/exit
+actions/application-exit
+actions/gtk-quit

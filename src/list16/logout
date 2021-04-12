@@ -1,0 +1,5 @@
+actions/system-log-out
+actions/gnome-logout
+actions/gnome-log-out
+actions/gnome-session-logout
+actions/xfsm-logout

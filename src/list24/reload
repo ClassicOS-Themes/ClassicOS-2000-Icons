@@ -1,0 +1,7 @@
+actions/reload
+actions/gtk-refresh
+actions/reload3
+actions/reload_all_tabs
+actions/reload_page
+actions/stock_refresh
+actions/view-refresh

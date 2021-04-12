@@ -1,0 +1,14 @@
+mimes/disk-image
+mimes/application-x-apple-diskimage
+mimes/application-x-apple-disk-image
+mimes/application-x-raw-disk-image
+mimes/application-x-virtualbox-vdi
+mimes/application-x-virtualbox-vhd
+mimes/application-x-virtualbox-vmdk
+mimes/gnome-mime-application-x-apple-diskimage
+mimes/gnome-mime-application-x-apple-disk-image
+mimes/gnome-mime-application-x-raw-disk-image
+mimes/gnome-mime-application-x-virtualbox-vdi
+mimes/gnome-mime-application-x-virtualbox-vhd
+mimes/gnome-mime-application-x-virtualbox-vmdk
+mimes/img

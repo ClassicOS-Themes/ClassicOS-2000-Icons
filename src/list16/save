@@ -1,0 +1,9 @@
+actions/save
+actions/browser-download
+actions/document-save
+actions/download
+actions/epiphany-download
+actions/filesave
+actions/file-save
+actions/gtk-save
+actions/stock_save

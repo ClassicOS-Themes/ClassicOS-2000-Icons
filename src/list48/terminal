@@ -1,0 +1,17 @@
+apps/terminal
+apps/bash
+apps/Etermutilities-terminal
+apps/gksu-debian
+apps/gksu-root-terminal
+apps/gnome-eterm
+apps/gnome-term
+apps/gnome-terminal
+apps/gnome-xterm
+apps/openterm
+apps/rxvt
+apps/rxvt-unicode
+apps/Terminal
+apps/tilda
+apps/utilities-terminal
+apps/xfce-terminal
+apps/xterm

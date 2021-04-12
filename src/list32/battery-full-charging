@@ -1,0 +1,15 @@
+status/battery-full-charging
+status/battery-full-charged
+status/battery-full-charging-symbolic
+status/battery-full-charged-symbolic
+status/battery-100-charging
+panel/gpm-battery-100-charging
+panel/gpm-primary-100-charging
+panel/gpm-ups-100-charging
+panel/xfpm-primary-100-charging
+panel/xfpm-ups-100-charging
+panel/gpm-battery-charged
+panel/gpm-primary-charged
+panel/gpm-ups-charged
+panel/xfpm-primary-charged
+panel/xfpm-ups-charged

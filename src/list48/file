@@ -1,0 +1,7 @@
+actions/document-new
+actions/filenew
+actions/gtk-new
+mimes/empty
+mimes/application-x-trash
+mimes/gnome-fs-regular
+mimes/gtk-file
