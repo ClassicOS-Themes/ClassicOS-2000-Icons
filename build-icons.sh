@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 ICON_THEME_NAME="${ICON_THEME_NAME:-ClassicOS2000}"
 VERBOSE="${VERBOSE:-FALSE}"
