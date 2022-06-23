@@ -4,16 +4,29 @@ Scalable Linux Desktop Icon Theme modeled after Windows 2000.
 
 ## Installation
 
-Requires bash for build & installation
+Requires bash for build & installation.
+Generating PNG or ICO files also requires inkscape and imagemagick's `convert` program.
+
+### Freedesktop Icon Theme
 
 ```bash
-git clone https://github.com/ClassicOS-Themes/ClassicOS-2000-Icons.git
-cd ClassicOS-2000-Icons
-make
+make freedesktop
 make install
 # for system-wide installation, use 'sudo make install'
 # or set the PREFIX environment variable to a different prefix:
 # PREFIX=/usr/local/share make install
+```
+
+### Generate PNG Files
+
+```bash
+make png
+```
+
+### Generate PNG and ICO files
+
+```bash
+make ico
 ```
 
 ## Screenshots
