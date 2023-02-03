@@ -1,4 +1,12 @@
 mimes/audio-x-generic
+mimes/audio-aac
+mimes/audio-ac3
+mimes/audio-mp3
+mimes/audio-mp4
+mimes/audio-mp2
+mimes/audio-ogg
+mimes/audio-basic
+mimes/audio-flac
 mimes/application-ogg
 mimes/audio-adpcm
 mimes/audio-mpeg
@@ -8,6 +16,9 @@ mimes/audio-x-ms-wma
 mimes/audio-x-speex+ogg
 mimes/audio-x-vorbis+ogg
 mimes/audio-x-wav
+mimes/audio-x-aiff
+mimes/audio-wav
+
 mimes/gnome-mime-application-ogg
 mimes/gnome-mime-audio
 mimes/medio-audio
