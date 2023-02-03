@@ -41,7 +41,7 @@ for size in ${ICON_SIZES[@]}; do
 		if [ $VERBOSE = TRUE ]; then
 			echo "Creating ${subdir} directory for ${size}..."
 		fi
-		mkdir -p "$STARTING_DIR/build/$ICON_THEME_NAME/$size/$subdir"
+		mkdir -p "$STARTING_DIR/build/$ICON_THEME_NAME/$subdir/$size"
 	done
 done
 
@@ -56,25 +56,27 @@ for size in ${ICON_SIZES[@]}; do
 		ORIGINAL_FILE=''
 		while read -r line
 		do
+			iconcategory=`dirname $line`
+			iconname=`basename $line`
+			thisiconfile="$iconcategory/$size/$iconname.svg"
 			if [ $FIRST = 0 ]; then
-				cp "$STARTING_DIR/src/svg$size/$file.svg" "$STARTING_DIR/build/$ICON_THEME_NAME/$size/$line.svg"
+				cp "$STARTING_DIR/src/svg$size/$file.svg" "$STARTING_DIR/build/$ICON_THEME_NAME/$thisiconfile"
 				
 				FIRST=1
-				ORIGINAL_FILE="../$line.svg"
-				if [ $VERBOSE = TRUE ]; then
-					echo " entering $STARTING_DIR/build/$ICON_THEME_NAME/$size"
-				fi
+				ORIGINAL_FILE="$thisiconfile"
 			else
+				if [ $VERBOSE = TRUE ]; then
+					echo " entering $STARTING_DIR/build/$ICON_THEME_NAME"
+				fi
 
-				cd "$STARTING_DIR/build/$ICON_THEME_NAME/$size"
+				cd "$STARTING_DIR/build/$ICON_THEME_NAME"
 
 				if [ $VERBOSE = TRUE ]; then
-					echo "Linking $ORIGINAL_FILE to $line.svg ..."
+					echo "Linking $ORIGINAL_FILE to $thisiconfile ..."
 				fi
-				ln -s "$ORIGINAL_FILE" "$line.svg"
+				ln -s "../../$ORIGINAL_FILE" "$thisiconfile"
 				if [ ! $? = 0 ]; then
-
-					echo "Failed to link $ORIGINAL_FILE to $line.svg (from list$size/$file)!"
+					echo "Failed to link $ORIGINAL_FILE to $thisiconfile (from list$size/$file)!"
 				fi
 
 				cd "$STARTING_DIR/src/list$size"

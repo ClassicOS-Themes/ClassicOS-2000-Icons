@@ -1,301 +1,301 @@
 [Icon Theme]
-Name=ClassicOS2000
+Name=ClassicOS 2000
 Comment=1999 Lives Again
 Inherits=SE98,Chicago95,Windows-XP,retrosmart-icon-theme,tango,adwaita,gnome,hicolor
 
 Example=directory-x-normal
 
 #Directory list
-Directories=16/actions,24/actions,32/actions,48/actions,16/apps,24/apps,32/apps,48/apps,16/categories,24/categories,32/categories,48/categories,16/places,24/places,32/places,48/places,16/mimes,24/mimes,32/mimes,48/mimes,16/devices,24/devices,32/devices,48/devices,16/emblems,32/emblems,48/emblems,16/status,32/status,48/status,16/notifications,32/notifications,48/notifications,16/panel,32/panel,48/panel,16/stock,32/stock,48/stock,16/tools,32/tools,48/tools,
+Directories=actions/16,actions/24,actions/32,actions/48,apps/16,apps/24,apps/32,apps/48,categories/16,categories/24,categories/32,categories/48,places/16,places/24,places/32,places/48,mimes/16,mimes/24,mimes/32,mimes/48,devices/16,devices/24,devices/32,devices/48,emblems/16,emblems/32,emblems/48,status/16,status/32,status/48,notifications/16,notifications/32,notifications/48,panel/16,panel/32,panel/48,stock/16,stock/32,stock/48,tools/16,tools/32,tools/48,
 
-[16/actions]
+[actions/16]
 Size=16
 Context=Actions
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[24/actions]
+[actions/24]
 Size=24
 Context=Actions
 MinSize=8
 MaxSize=24
 Type=Scalable
 
-[32/actions]
+[actions/32]
 Size=32
 Context=Actions
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/actions]
+[actions/48]
 Size=48
 Context=Actions
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/apps]
+[apps/16]
 Size=16
 Context=Applications
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[24/apps]
+[apps/24]
 Size=24
 Context=Applications
 MinSize=8
 MaxSize=24
 Type=Scalable
 
-[32/apps]
+[apps/32]
 Size=32
 Context=Applications
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/apps]
+[apps/48]
 Size=48
 Context=Applications
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/categories]
+[categories/16]
 Size=16
 Context=Categories
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[24/categories]
+[categories/24]
 Size=24
 Context=Categories
 MinSize=8
 MaxSize=24
 Type=Scalable
 
-[32/categories]
+[categories/32]
 Size=32
 Context=Categories
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/categories]
+[categories/48]
 Size=48
 Context=Categories
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/places]
+[places/16]
 Size=16
 Context=Places
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[24/places]
+[places/24]
 Size=24
 Context=Places
 MinSize=8
 MaxSize=24
 Type=Scalable
 
-[32/places]
+[places/32]
 Size=32
 Context=Places
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/places]
+[places/48]
 Size=48
 Context=Places
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/mimes]
+[mimes/16]
 Size=16
 Context=MimeTypes
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[24/mimes]
+[mimes/24]
 Size=24
 Context=MimeTypes
 MinSize=8
 MaxSize=24
 Type=Scalable
 
-[32/mimes]
+[mimes/32]
 Size=32
 Context=MimeTypes
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/mimes]
+[mimes/48]
 Size=48
 Context=MimeTypes
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/devices]
+[devices/16]
 Size=16
 Context=Devices
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[24/devices]
+[devices/24]
 Size=24
 Context=Devices
 MinSize=8
 MaxSize=24
 Type=Scalable
 
-[32/devices]
+[devices/32]
 Size=32
 Context=Devices
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/devices]
+[devices/48]
 Size=48
 Context=Devices
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/emblems]
+[emblems/16]
 Size=16
 Context=Emblems
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[32/emblems]
+[emblems/32]
 Size=32
 Context=Emblems
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/emblems]
+[emblems/48]
 Size=48
 Context=Emblems
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/status]
+[status/16]
 Size=16
 Context=Status
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[32/status]
+[status/32]
 Size=32
 Context=Status
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/status]
+[status/48]
 Size=48
 Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/notifications]
+[notifications/16]
 Size=16
 Context=Status
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[32/notifications]
+[notifications/32]
 Size=32
 Context=Status
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/notifications]
+[notifications/48]
 Size=48
 Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/panel]
+[panel/16]
 Size=16
 Context=Status
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[32/panel]
+[panel/32]
 Size=32
 Context=Status
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/panel]
+[panel/48]
 Size=48
 Context=Status
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/stock]
+[stock/16]
 Size=16
 Context=Stock
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[32/stock]
+[stock/32]
 Size=32
 Context=Stock
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/stock]
+[stock/48]
 Size=48
 Context=Stock
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[16/tools]
+[tools/16]
 Size=16
 Context=Actions
 MinSize=8
 MaxSize=16
 Type=Scalable
 
-[32/tools]
+[tools/32]
 Size=32
 Context=Actions
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[48/tools]
+[tools/48]
 Size=48
 Context=Actions
 MinSize=8
