@@ -53,9 +53,4 @@ make ico
 
 ## Misc Notes
 
-Falls back to [b00merang's Windows XP icon theme](https://github.com/B00merang-Artwork/Windows-XP/) for missing icons, then tango and the usual icon sets.
-
-I've purposefully avoided adding [the Chicago95 icon set](https://github.com/grassmunk/Chicago95) to the list of inherited themes so that it's easier to see what still needs to be done. If you want the system to look as retro as possible, add Chicago95 to the list of inherited themes in `src/index.theme` before building and installing, like so:
-```
-Inherits=Chicago95,Windows-XP,tango,adwaita,gnome,hicolor
-```
+Falls back to [98SE](https://github.com/nestoris/Win98SE), [Chicago95](https://github.com/grassmunk/Chicago95), [Windows-XP](https://github.com/B00merang-Artwork/Windows-XP/), [Retrosmart Icons](https://github.com/mdomlop/retrosmart-icon-theme), and [Tango](http://tango.freedesktop.org/Tango_Icon_Library) for missing icons
