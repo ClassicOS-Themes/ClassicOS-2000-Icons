@@ -2,6 +2,10 @@
 
 Scalable Linux Desktop Icon Theme modeled after Windows 2000.
 
+## Note
+
+Version 2 of the icon theme is currently in the works, sporting a new build system and more 24px icons, among other improvements.
+
 ## Installation
 
 Requires bash for build & installation.
