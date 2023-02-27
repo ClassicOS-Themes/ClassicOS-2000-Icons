@@ -4,7 +4,7 @@ Scalable Linux Desktop Icon Theme modeled after Windows 2000.
 
 ## Note
 
-Version 2 of the icon theme is currently in the works, sporting a new build system and more 24px icons, among other improvements.
+Version 2 of the icon theme is currently in the works, sporting a new build system and more 24px icons, among other improvements. See the "version2-wip" branch for more information
 
 ## Installation
 
