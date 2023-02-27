@@ -1,0 +1,8 @@
+actions/system-log-out
+actions/gnome-logout
+actions/gnome-log-out
+actions/gnome-session-logout
+actions/system-logout
+actions/xfsm-logout
+actions/lxde-logout
+actions/org.xfce.panel.actions

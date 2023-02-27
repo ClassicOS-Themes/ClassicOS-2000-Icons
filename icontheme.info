@@ -1,0 +1,26 @@
+# General Information
+ICON_THEME_NAME="ClassicOS 2000" 
+ICON_THEME_DESCRIPTION="Icons from the turn of the Millenium" 
+ICON_THEME_SLUG="ClassicOS-2000"
+ICON_THEME_VERSION="1.3"
+
+# Templates to build
+ICON_THEME_TEMPLATES=( folder folder-high background-folder file file-wide application-document application-template generic-document generic-template notebook battery battery-symbolic speaker zoom-base )
+
+# Icon sizes
+ICON_THEME_SIZES=( 16 24 32 48 )
+ICON_THEME_ADDITIONAL_SCALES=( )
+
+# Specific to the freedesktop icon theme
+# ICON_THEME_MIN_SIZE=8
+# ICON_THEME_MAX_SIZE=1024
+# ICON_THEME_SCALABLE_NOMINAL_SIZE=128
+ICON_THEME_INHERITS=( tango adwaita gnome hicolor )
+ICON_THEME_EXAMPLE="computer"
+
+# Translations
+ICON_THEME_NAME_T[en]="ClassicOS 2000"
+ICON_THEME_NAME_T[fr]="ClassicOS 2000"
+
+ICON_THEME_DESCRIPTION_T[en]="Icons from the turn of the Millenium"
+ICON_THEME_DESCRIPTION_T[fr]="Icônes du tournant du millénaire"

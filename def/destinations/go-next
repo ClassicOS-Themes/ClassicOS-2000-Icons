@@ -1,0 +1,10 @@
+actions/forward
+actions/go-next
+actions/go-next-symbolic
+actions/go-right
+actions/go-back-rtl
+actions/go-forward-ltr
+actions/next
+actions/1rightarrow
+actions/arrow-right
+actions/draw-arrow-forward

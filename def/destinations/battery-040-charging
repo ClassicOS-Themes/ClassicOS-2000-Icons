@@ -1,0 +1,9 @@
+status/battery-040-charging
+status/battery-low-charging
+status/gpm-battery-040-charging
+status/gpm-primary-040-charging
+status/gpm-ups-040-charging
+status/xfpm-primary-040-charging
+status/xfpm-ups-040-charging
+devices/battery-level-40-charging
+devices/battery-level-50-charging

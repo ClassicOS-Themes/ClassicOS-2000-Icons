@@ -1,0 +1,17 @@
+status/battery-full-charging-symbolic
+status/battery-full-charged-symbolic
+status/battery-100-charging-symbolic
+status/gpm-battery-100-charging-symbolic
+status/gpm-primary-100-charging-symbolic
+status/gpm-ups-100-charging-symbolic
+status/xfpm-primary-100-charging-symbolic
+status/xfpm-ups-100-charging-symbolic
+status/gpm-battery-charged-symbolic
+status/gpm-primary-charged-symbolic
+status/gpm-ups-charged-symbolic
+status/xfpm-primary-charged-symbolic
+status/xfpm-ups-charged-symbolic
+devices/battery-level-100-charging-symbolic
+devices/battery-level-100-charging-symbolic.symbolic
+status/battery-charging-symbolic
+status/battery-charged-symbolic

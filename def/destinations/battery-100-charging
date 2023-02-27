@@ -1,0 +1,17 @@
+status/battery-full-charging
+status/battery-full-charged
+status/battery-charging
+status/battery-charged
+status/battery-100-charging
+status/gpm-battery-100-charging
+status/gpm-primary-100-charging
+status/gpm-ups-100-charging
+status/xfpm-primary-100-charging
+status/xfpm-ups-100-charging
+status/gpm-battery-charged
+status/gpm-primary-charged
+status/gpm-ups-charged
+status/xfpm-primary-charged
+status/xfpm-ups-charged
+devices/battery-level-100-charging
+devices/battery-level-100-charged

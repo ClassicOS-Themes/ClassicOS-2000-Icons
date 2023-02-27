@@ -1,0 +1,10 @@
+status/battery-080-charging-symbolic
+status/gpm-battery-080-charging-symbolic
+status/gpm-primary-080-charging-symbolic
+status/gpm-ups-080-charging-symbolic
+status/xfpm-primary-080-charging-symbolic
+status/xfpm-ups-080-charging-symbolic
+devices/battery-level-80-charging-symbolic
+devices/battery-level-80-charging-symbolic.symbolic
+devices/battery-level-90-charging-symbolic
+devices/battery-level-90-charging-symbolic.symbolic

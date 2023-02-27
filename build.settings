@@ -1,0 +1,29 @@
+
+# Force rebuilding every time
+REBUILD=false
+
+# Display common logs
+PRINT_ERROR=true
+PRINT_WARNING=true
+PRINT_INFORMATION=true
+
+# Display more detailed information
+PRINT_STEP=true
+PRINT_FILES_COPYING=false
+PRINT_FILES_LINKING=false
+PRINT_FILES_GENERATING=false
+PRINT_FILES_OPTIMIZING=false
+
+# Display all script output (it still gets logged to ~/.cache/tc-icons-build/)
+PRINT_VERBOSE=false
+
+# How to handle missing template overlays
+NOERROR_MISSING_OVERLAY=true
+WARN_MISSING_OVERLAY=true
+SKIP_MISSING_OVERLAY=true
+
+
+NOERROR_MISSING_ICON=true
+WARN_MISSING_ICON=true
+
+SVGO_EXTRA_OPT="--exclude desktop.svg --exclude archive-manager.svg --exclude applications-system.svg" # something gets really messed up with these files

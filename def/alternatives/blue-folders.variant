@@ -1,0 +1,5 @@
+VARIANT_NAME="Blue Folders"
+VARIANT_SLUG="blue"
+ADDITIONAL_TEMPLATES=(folder-blue folder-blue-high)
+ADDITIONAL_LISTS=()
+VARIANT_NAME_T[fr]="Dossiers Bleus"

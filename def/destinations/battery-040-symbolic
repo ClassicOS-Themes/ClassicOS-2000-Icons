@@ -1,0 +1,11 @@
+status/battery-040-symbolic
+status/battery-low-symbolic
+status/gpm-battery-040-symbolic
+status/gpm-primary-040-symbolic
+status/gpm-ups-040-symbolic
+status/xfpm-primary-040-symbolic
+status/xfpm-ups-040-symbolic
+devices/battery-level-40-symbolic
+devices/battery-level-40-symbolic.symbolic
+devices/battery-level-50-symbolic
+devices/battery-level-50-symbolic.symbolic

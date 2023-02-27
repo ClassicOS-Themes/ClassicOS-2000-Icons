@@ -1,0 +1,11 @@
+status/battery-020-charging-symbolic
+status/battery-caution-charging-symbolic
+status/gpm-battery-020-charging-symbolic
+status/gpm-primary-020-charging-symbolic
+status/gpm-ups-020-charging-symbolic
+status/xfpm-primary-020-charging-symbolic
+status/xfpm-ups-020-charging-symbolic
+devices/battery-level-20-charging-symbolic
+devices/battery-level-20-charging-symbolic.symbolic
+devices/battery-level-30-charging-symbolic
+devices/battery-level-30-charging-symbolic.symbolic

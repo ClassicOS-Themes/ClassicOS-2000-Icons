@@ -1,0 +1,16 @@
+mimes/office-spreadsheet
+mimes/application-vnd.lotus-1-2-3
+mimes/application-vnd.stardivision.calc
+mimes/application-vnd.sun.xml.calc
+mimes/application-x-gnumeric
+mimes/application-x-applix-spreadsheet
+mimes/application-x-kspread
+mimes/gnome-mime-application-vnd.lotus-1-2-3
+mimes/gnome-mime-application-vnd.stardivision.calc
+mimes/gnome-mime-application-vnd.sun.xml.calc
+mimes/gnome-mime-application-x-gnumeric
+mimes/gnome-mime-application-x-applix-spreadsheet
+mimes/gnome-mime-application-x-kspread
+mimes/spreadsheet
+mimes/text-spreadsheet
+mimes/x-office-spreadsheet

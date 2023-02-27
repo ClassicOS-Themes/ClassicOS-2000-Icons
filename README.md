@@ -54,3 +54,10 @@ make ico
 ## Misc Notes
 
 Falls back to [98SE](https://github.com/nestoris/Win98SE), [Chicago95](https://github.com/grassmunk/Chicago95), [Windows-XP](https://github.com/B00merang-Artwork/Windows-XP/), [Retrosmart Icons](https://github.com/mdomlop/retrosmart-icon-theme), and [Tango](http://tango.freedesktop.org/Tango_Icon_Library) for missing icons
+
+## Brand Icons Disclaimer
+
+All brand icons are trademarks of their respective owners.
+The use of these trademarks does not indicate endorsement of the trademark holder by the ClassicOS Project, nor vice versa.
+Brand icons should only be used to represent the company or product to which they refer.
+Please do not use brand logos for any purpose except to represent that particular brand or service.

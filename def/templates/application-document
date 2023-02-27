@@ -1,0 +1,4 @@
+application-spreadsheet application-msexcel
+application-spreadsheet application-libreoffice-calc
+application-document application-msword
+application-document application-libreoffice-writer

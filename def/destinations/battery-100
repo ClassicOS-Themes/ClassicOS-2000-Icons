@@ -1,0 +1,9 @@
+status/battery-full
+status/battery_full
+status/battery-100
+status/gpm-battery-100
+status/gpm-primary-100
+status/gpm-ups-100
+status/xfpm-primary-100
+status/xfpm-ups-100
+devices/battery-level-100

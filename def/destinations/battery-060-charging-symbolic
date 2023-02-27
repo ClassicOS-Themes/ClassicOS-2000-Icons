@@ -1,0 +1,11 @@
+status/battery-060-charging-symbolic
+status/battery-good-charging-symbolic
+status/gpm-battery-060-charging-symbolic
+status/gpm-primary-060-charging-symbolic
+status/gpm-ups-060-charging-symbolic
+status/xfpm-primary-060-charging-symbolic
+status/xfpm-ups-060-charging-symbolic
+devices/battery-level-60-charging-symbolic
+devices/battery-level-60-charging-symbolic.symbolic
+devices/battery-level-70-charging-symbolic
+devices/battery-level-70-charging-symbolic.symbolic

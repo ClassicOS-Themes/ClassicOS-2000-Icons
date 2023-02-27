@@ -1,0 +1,11 @@
+status/battery-080-symbolic
+status/battery-good-symbolic
+status/gpm-battery-080-symbolic
+status/gpm-primary-080-symbolic
+status/gpm-ups-080-symbolic
+status/xfpm-primary-080-symbolic
+status/xfpm-ups-080-symbolic
+devices/battery-level-80-symbolic
+devices/battery-level-80-symbolic.symbolic
+devices/battery-level-90-symbolic
+devices/battery-level-90-symbolic.symbolic

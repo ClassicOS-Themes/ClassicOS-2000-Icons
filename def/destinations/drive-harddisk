@@ -1,0 +1,12 @@
+devices/drive-harddisk
+devices/drive-harddisk-solidstate
+devices/block-device
+devices/drive-harddisk-scsi
+devices/drive-harddisk-system
+devices/gnome-dev-harddisk
+devices/gnome-fs-blockdev
+devices/gtk-harddisk
+devices/harddrive
+devices/hdd_unmount
+devices/yast_HD
+devices/yast_idetude

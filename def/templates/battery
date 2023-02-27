@@ -1,0 +1,14 @@
+battery-background-fill battery-outline battery
+battery-background-fill battery-outline battery-bolt
+battery-background-fill battery-fill-010 battery-outline battery-010
+battery-background-fill battery-fill-010 battery-bolt battery-outline battery-010-charging
+battery-background-fill battery-fill-020 battery-outline battery-020
+battery-background-fill battery-fill-020 battery-bolt battery-outline battery-020-charging
+battery-background-fill battery-fill-040 battery-outline battery-040
+battery-background-fill battery-fill-040 battery-bolt battery-outline battery-040-charging
+battery-background-fill battery-fill-060 battery-outline battery-060
+battery-background-fill battery-fill-060 battery-bolt battery-outline battery-060-charging
+battery-background-fill battery-fill-080 battery-outline battery-080
+battery-background-fill battery-fill-080 battery-bolt battery-outline battery-080-charging
+battery-fill-100 battery-outline battery-100
+battery-fill-100 battery-bolt battery-outline battery-100-charging

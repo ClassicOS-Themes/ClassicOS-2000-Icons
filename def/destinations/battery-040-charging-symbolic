@@ -1,0 +1,11 @@
+status/battery-040-charging-symbolic
+status/battery-low-charging-symbolic
+status/gpm-battery-040-charging-symbolic
+status/gpm-primary-040-charging-symbolic
+status/gpm-ups-040-charging-symbolic
+status/xfpm-primary-040-charging-symbolic
+status/xfpm-ups-040-charging-symbolic
+devices/battery-level-40-charging-symbolic
+devices/battery-level-40-charging-symbolic.symbolic
+devices/battery-level-50-charging-symbolic
+devices/battery-level-50-charging-symbolic.symbolic

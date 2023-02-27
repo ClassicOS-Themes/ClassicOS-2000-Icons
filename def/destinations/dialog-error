@@ -1,0 +1,10 @@
+status/dialog-error
+status/error
+status/gtk-dialog-error
+status/messagebox_critical
+status/stock_dialog-error
+actions/stop
+actions/gtk-cancel
+actions/gtk-stop
+actions/process-stop
+actions/stock_stop
